@@ -88,7 +88,7 @@ Here is the Data Model that I have created in Power BI for the Visualization par
 
 ![10 pic](https://github.com/Akashsingh1916/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/assets/146354971/a8eca595-dd14-4751-89d3-3031c2200ef7)
 
-================================================================================================
+============================================================================================
 
 **NOTE-**
 
