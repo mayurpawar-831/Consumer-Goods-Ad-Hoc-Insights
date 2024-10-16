@@ -92,6 +92,8 @@ Here is the Data Model that I have created in Power BI for the Visualization par
 
 **NOTE-**
 
- - In this file, you will find all the Questions 
+https://github.com/mayurpawar-831/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf 
+In this file, you will find all the Questions 
 
- https://github.com/mayurpawar-831/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/All%20Ad-Hoc%20SQL%20Queries.sql - In this file you will find all the Answers
+https://github.com/mayurpawar-831/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights/blob/main/All%20Ad-Hoc%20SQL%20Queries.sql 
+In this file you will find all the Answers
