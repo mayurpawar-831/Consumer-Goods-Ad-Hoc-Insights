@@ -92,6 +92,6 @@ Here is the Data Model that I have created in Power BI for the Visualization par
 
 **NOTE-**
 
-ad-hoc-requests - In this file, you will find all the Questions 
+ - In this file, you will find all the Questions 
 
-All Ad-Hoc SQL Queries - In this file you will find all the Answers
+ - In this file you will find all the Answers
