@@ -1,4 +1,4 @@
-# AtliQ Hardware Consumer Goods: Ad-Hoc-Insights
+# Consumer Goods: Ad-Hoc-Insights
 
 ## Project Overview and Problem Statement
 
